@@ -1,0 +1,13 @@
+pt_PT:
+  top_menu_item_title: "Painel"
+  settings_header_statuses: "Cores dos Estados"
+  settings_header_projects: "Cores dos Projetos"
+  settings_header_other: "Outras Definições"
+  settings_use_drop_down_menu: 'Utilizar menu de seleção para escolher o projeto'
+  settings_display_closed_statuses: 'Mostrar estados "fechados"'
+  settings_display_child_projects_tasks: 'Mostrar tarefas de projetos filhos'
+  settings_display_minimized_closed_issue_cards: 'Mostrar cartões de problemas "fechados" minimizados'
+  settings_enable_drag_and_drop: 'Ativar a funcionalidade "Arrastar e Soltar" para alterar o estado'
+  settings_generate_colors: "Gerar cores"
+  executor_not_set: "Não definido"
+  label_all: "Todos"
